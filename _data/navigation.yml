@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /About/
+  - title: "Resume"
+    url: /Resume/
+  - title: "Portfolio"
+    url: /Portfolio/
+  - title: "Certification"
+    url: /Certification/
+  - title: "Courses"
+    url: /Courses/
+  - title: "Blog"
+    url: /Blog/
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
