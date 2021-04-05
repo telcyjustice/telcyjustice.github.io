@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Portfolio" # site tagline that appears below site title in masthead
 name                     : "Telcy Justice"
 description              : "An amazing website."
-url                      : "https://cyrillemesue.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://telcyjustice.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "telcyjustice/telcyjustice.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -99,7 +99,7 @@ author:
   bio              : "Marine engineer, Undergraduate"
   location         : "Istanbul/Turkey"
   email            : djusticekoudedikissa@gmail.com
-  LinkedIn         : "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
+  LinkedIn         : "https://www.linkedin.com/in/telcy-justice-koudedikissa-3a448a184/"
   Github           :
   
   links:
@@ -108,7 +108,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
       icon: #"fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/"
+      url: "https://www.linkedin.com/in/telcy-justice-koudedikissa-3a448a184/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
