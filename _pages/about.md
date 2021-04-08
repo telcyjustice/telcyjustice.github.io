@@ -18,4 +18,5 @@ To positively impact the life of every person i meet through inspiration and lov
 ### Interest  
 
 ### Hobbies
-
+### Tagline
+Do your best, and God will do the rest.
