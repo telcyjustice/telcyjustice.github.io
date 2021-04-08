@@ -8,7 +8,8 @@ toc: true
 ---
  This is my About pages
 
-### Slogan: GOD
+### Slogan
+GVGHJVHB
 
 ### Mission
 
@@ -16,5 +17,5 @@ toc: true
 
 ### Interest  
 
-### Hobbies  
+### Hobbies
 
