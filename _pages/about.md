@@ -9,7 +9,7 @@ toc: true
  This is my About pages
 
 ### Slogan
-GVGHJVHB
+İf God is for us, who can be against us?
 
 ### Mission
 
