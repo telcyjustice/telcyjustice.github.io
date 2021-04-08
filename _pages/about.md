@@ -8,7 +8,7 @@ toc: true
 ---
  This is my About pages
 
-### Slogan  
+### Slogan: GOD
 
 ### Mission
 
